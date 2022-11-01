@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmairAsadKhan
 - 👀 I’m interested in Machine Learning and Artificial Intelligence. 
-- 🌱 I’m currently working as react developer
+- 🌱 I’m currently working as Android developer
 - 📫 You can see my github profile for more information or for any collaboration
 
 <!---
